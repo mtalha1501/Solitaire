@@ -1,0 +1,25 @@
+G:\My CS\Semester 3\DSA Lab\Mid Project - Solitaire Game\Solitaire WPF\Solitaire WPF\obj\Debug\net8.0-windows\App.g.cs
+G:\My CS\Semester 3\DSA Lab\Mid Project - Solitaire Game\Solitaire WPF\Solitaire WPF\obj\Debug\net8.0-windows\Solitaire WPF_MarkupCompile.cache
+G:\My CS\Semester 3\DSA Lab\Mid Project - Solitaire Game\Solitaire WPF\Solitaire WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+G:\My CS\Semester 3\DSA Lab\Mid Project - Solitaire Game\Solitaire WPF\Solitaire WPF\obj\Debug\net8.0-windows\MainWindow.baml
+G:\My CS\Semester 3\DSA Lab\Mid Project - Solitaire Game\Solitaire WPF\Solitaire WPF\obj\Debug\net8.0-windows\Solitaire WPF.g.resources
+G:\My CS\Semester 3\DSA Lab\Mid Project - Solitaire Game\Solitaire WPF\Solitaire WPF\obj\Debug\net8.0-windows\Solitaire WPF.GeneratedMSBuildEditorConfig.editorconfig
+G:\My CS\Semester 3\DSA Lab\Mid Project - Solitaire Game\Solitaire WPF\Solitaire WPF\obj\Debug\net8.0-windows\Solitaire WPF.AssemblyInfoInputs.cache
+G:\My CS\Semester 3\DSA Lab\Mid Project - Solitaire Game\Solitaire WPF\Solitaire WPF\obj\Debug\net8.0-windows\Solitaire WPF.AssemblyInfo.cs
+G:\My CS\Semester 3\DSA Lab\Mid Project - Solitaire Game\Solitaire WPF\Solitaire WPF\obj\Debug\net8.0-windows\Solitaire WPF.csproj.CoreCompileInputs.cache
+G:\My CS\Semester 3\DSA Lab\Mid Project - Solitaire Game\Solitaire WPF\Solitaire WPF\bin\Debug\net8.0-windows\Solitaire WPF.exe
+G:\My CS\Semester 3\DSA Lab\Mid Project - Solitaire Game\Solitaire WPF\Solitaire WPF\bin\Debug\net8.0-windows\Solitaire WPF.deps.json
+G:\My CS\Semester 3\DSA Lab\Mid Project - Solitaire Game\Solitaire WPF\Solitaire WPF\bin\Debug\net8.0-windows\Solitaire WPF.runtimeconfig.json
+G:\My CS\Semester 3\DSA Lab\Mid Project - Solitaire Game\Solitaire WPF\Solitaire WPF\bin\Debug\net8.0-windows\Solitaire WPF.dll
+G:\My CS\Semester 3\DSA Lab\Mid Project - Solitaire Game\Solitaire WPF\Solitaire WPF\bin\Debug\net8.0-windows\Solitaire WPF.pdb
+G:\My CS\Semester 3\DSA Lab\Mid Project - Solitaire Game\Solitaire WPF\Solitaire WPF\obj\Debug\net8.0-windows\Solitaire WPF.dll
+G:\My CS\Semester 3\DSA Lab\Mid Project - Solitaire Game\Solitaire WPF\Solitaire WPF\obj\Debug\net8.0-windows\refint\Solitaire WPF.dll
+G:\My CS\Semester 3\DSA Lab\Mid Project - Solitaire Game\Solitaire WPF\Solitaire WPF\obj\Debug\net8.0-windows\Solitaire WPF.pdb
+G:\My CS\Semester 3\DSA Lab\Mid Project - Solitaire Game\Solitaire WPF\Solitaire WPF\obj\Debug\net8.0-windows\Solitaire WPF.genruntimeconfig.cache
+G:\My CS\Semester 3\DSA Lab\Mid Project - Solitaire Game\Solitaire WPF\Solitaire WPF\obj\Debug\net8.0-windows\ref\Solitaire WPF.dll
+G:\My CS\Semester 3\DSA Lab\Mid Project - Solitaire Game\Solitaire WPF\Solitaire WPF\obj\Debug\net8.0-windows\Card.g.cs
+G:\My CS\Semester 3\DSA Lab\Mid Project - Solitaire Game\Solitaire WPF\Solitaire WPF\obj\Debug\net8.0-windows\Solitaire WPF_MarkupCompile.lref
+G:\My CS\Semester 3\DSA Lab\Mid Project - Solitaire Game\Solitaire WPF\Solitaire WPF\obj\Debug\net8.0-windows\Card.baml
+G:\My CS\Semester 3\DSA Lab\Mid Project - Solitaire Game\Solitaire WPF\Solitaire WPF\obj\Debug\net8.0-windows\Solitaire WPF.sourcelink.json
+G:\My CS\Semester 3\DSA Lab\Mid Project - Solitaire Game\Solitaire WPF\Solitaire WPF\obj\Debug\net8.0-windows\WinPage.g.cs
+G:\My CS\Semester 3\DSA Lab\Mid Project - Solitaire Game\Solitaire WPF\Solitaire WPF\obj\Debug\net8.0-windows\WinPage.baml

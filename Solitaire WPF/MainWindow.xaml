@@ -1,0 +1,145 @@
+﻿<Window x:Class="Solitaire_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Solitaire Game" Height="800" Width="1200"
+        WindowState="Maximized">
+    <Grid Margin="0,0,-2,0">
+        <!-- Background Image -->
+        <Grid.Background>
+            <ImageBrush ImageSource="G:\My CS\Semester 3\DSA Lab\Mid Project - Solitaire Game\Solitaire WPF\Solitaire WPF\Card-Images\background-img-3.jpg" Stretch="Fill"/>
+        </Grid.Background>
+
+        <!-- Define Column and Row Definitions -->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Stockpile and Wastepile (Left Side) -->
+        <StackPanel Orientation="Horizontal" Grid.Row="0" Grid.Column="0" Margin="20,20,0,554" Grid.RowSpan="2">
+            <!-- Stockpile -->
+            <Canvas x:Name="StockpileCanva"
+                    Width="100"
+                    Height="150"
+                    Cursor="Hand"
+                    Background="Black"
+                    Margin="10">
+                <Canvas.Effect>
+                    <DropShadowEffect ShadowDepth="2" Color="Black" Opacity="0.5"/>
+                </Canvas.Effect>
+            </Canvas>
+            <Button x:Name="DrawButton"
+                    Content="Draw Card"
+                    Width="80"
+                    Height="30"
+                    Click="DrawButton_Click">
+                <Button.Style>
+                    <Style TargetType="Button">
+                        <Setter Property="Background" Value="Black"/>
+                        <Setter Property="Foreground" Value="White"/>
+                        <Setter Property="BorderBrush" Value="Gray"/>
+                        <Setter Property="BorderThickness" Value="1"/>
+                        <Setter Property="Cursor" Value="Hand"/>
+                        <Setter Property="FontSize" Value="14"/>
+                        <Setter Property="Padding" Value="5"/>
+
+                    </Style>
+                </Button.Style>
+            </Button>
+            <!-- Draw Button End -->
+
+            <!-- Wastepile -->
+            <Canvas x:Name="WastePileCanva"
+                    Width="100"
+                    Height="150"
+                    Cursor="Hand"
+                    Background="Black"
+                    Margin="10,0,0,0">
+                <Canvas.Effect>
+                    <DropShadowEffect ShadowDepth="2" Color="Black" Opacity="0.5"/>
+                </Canvas.Effect>
+            </Canvas>
+        </StackPanel>
+
+        <!-- Foundation Piles (Top Center) -->
+        <StackPanel Orientation="Horizontal" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Center" Margin="0,20,0,0">
+            <Canvas x:Name="Foundation1" Width="100" Height="150" Cursor="Hand" Background="Black" Margin="10">
+                <Canvas.Effect>
+                    <DropShadowEffect ShadowDepth="2" Color="Black" Opacity="0.5"/>
+                </Canvas.Effect>
+            </Canvas>
+
+            <Canvas x:Name="Foundation2" Width="100" Height="150" Cursor="Hand" Background="Black" Margin="10">
+                <Canvas.Effect>
+                    <DropShadowEffect ShadowDepth="2" Color="Black" Opacity="0.5"/>
+                </Canvas.Effect>
+            </Canvas>
+
+            <Canvas x:Name="Foundation3" Width="100" Height="150" Cursor="Hand" Background="Black" Margin="10">
+                <Canvas.Effect>
+                    <DropShadowEffect ShadowDepth="2" Color="Black" Opacity="0.5"/>
+                </Canvas.Effect>
+            </Canvas>
+
+            <Canvas x:Name="Foundation4" Width="100" Height="150" Cursor="Hand" Background="Black" Margin="10">
+                <Canvas.Effect>
+                    <DropShadowEffect ShadowDepth="2" Color="Black" Opacity="0.5"/>
+                </Canvas.Effect>
+            </Canvas>
+            
+
+        </StackPanel>
+        <!-- After Foundation4 in the foundation StackPanel -->
+        
+        <!-- Tableau Piles (Bottom Center) -->
+        <StackPanel Orientation="Horizontal" Grid.Row="1" Grid.ColumnSpan="3" HorizontalAlignment="Center" Margin="0,10,0,0">
+            <Canvas x:Name="Tableau1" Width="100" Height="150" Cursor="Hand" Background="Black" Margin="10">
+                <Canvas.Effect>
+                    <DropShadowEffect ShadowDepth="2" Color="Black" Opacity="0.5"/>
+                </Canvas.Effect>
+            </Canvas>
+
+            <Canvas x:Name="Tableau2" Width="100" Height="150" Cursor="Hand" Background="Black" Margin="10">
+                <Canvas.Effect>
+                    <DropShadowEffect ShadowDepth="2" Color="Black" Opacity="0.5"/>
+                </Canvas.Effect>
+            </Canvas>
+
+            <Canvas x:Name="Tableau3" Width="100" Height="150" Cursor="Hand" Background="Black" Margin="10">
+                <Canvas.Effect>
+                    <DropShadowEffect ShadowDepth="2" Color="Black" Opacity="0.5"/>
+                </Canvas.Effect>
+            </Canvas>
+
+            <Canvas x:Name="Tableau4" Width="100" Height="150" Cursor="Hand" Background="Black" Margin="10">
+                <Canvas.Effect>
+                    <DropShadowEffect ShadowDepth="2" Color="Black" Opacity="0.5"/>
+                </Canvas.Effect>
+            </Canvas>
+
+            <Canvas x:Name="Tableau5" Width="100" Height="150" Cursor="Hand" Background="Black" Margin="10">
+                <Canvas.Effect>
+                    <DropShadowEffect ShadowDepth="2" Color="Black" Opacity="0.5"/>
+                </Canvas.Effect>
+            </Canvas>
+
+            <Canvas x:Name="Tableau6" Width="100" Height="150" Cursor="Hand" Background="Black" Margin="10">
+                <Canvas.Effect>
+                    <DropShadowEffect ShadowDepth="2" Color="Black" Opacity="0.5"/>
+                </Canvas.Effect>
+            </Canvas>
+
+            <Canvas x:Name="Tableau7" Width="100" Height="150" Cursor="Hand" Background="Black" Margin="10">
+                <Canvas.Effect>
+                    <DropShadowEffect ShadowDepth="2" Color="Black" Opacity="0.5"/>
+                </Canvas.Effect>
+            </Canvas>
+        </StackPanel>
+    </Grid>
+</Window>

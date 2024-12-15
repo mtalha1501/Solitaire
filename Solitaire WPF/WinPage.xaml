@@ -1,0 +1,48 @@
+﻿<Window x:Class="Solitaire_WPF.WinPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Solitaire_WPF"
+        mc:Ignorable="d"
+        Title="WinPage" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="G:\My CS\Semester 3\DSA Lab\Mid Project - Solitaire Game\Solitaire WPF\Solitaire WPF\Card-Images\background-img-2.jpg" Stretch="Fill"/>
+        </Grid.Background>
+
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="Congratulations!"
+                       FontSize="48"
+                       FontWeight="Bold"
+                       Foreground="Gold"
+                       TextAlignment="Center"
+                       Margin="0,0,0,20">
+                <TextBlock.Effect>
+                    <DropShadowEffect ShadowDepth="3" 
+                                    Color="Black" 
+                                    Opacity="0.8" 
+                                    BlurRadius="4"/>
+                </TextBlock.Effect>
+            </TextBlock>
+
+            <TextBlock Text="You Won the Game!"
+                       FontSize="36"
+                       FontWeight="Bold"
+                       Foreground="White"
+                       TextAlignment="Center"
+                       Margin="0,0,0,40">
+                <TextBlock.Effect>
+                    <DropShadowEffect ShadowDepth="3" 
+                                    Color="Black" 
+                                    Opacity="0.8" 
+                                    BlurRadius="4"/>
+                </TextBlock.Effect>
+            </TextBlock>
+
+            
+
+            
+        </StackPanel>
+    </Grid>
+</Window>

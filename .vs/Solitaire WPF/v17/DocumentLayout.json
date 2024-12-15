@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D931261-AD47-4075-AB46-14353AC35CF3}|Solitaire WPF\\Solitaire WPF.csproj|G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\solitaire wpf\\movecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D931261-AD47-4075-AB46-14353AC35CF3}|Solitaire WPF\\Solitaire WPF.csproj|solutionrelative:solitaire wpf\\movecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D931261-AD47-4075-AB46-14353AC35CF3}|Solitaire WPF\\Solitaire WPF.csproj|G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\solitaire wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D931261-AD47-4075-AB46-14353AC35CF3}|Solitaire WPF\\Solitaire WPF.csproj|solutionrelative:solitaire wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D931261-AD47-4075-AB46-14353AC35CF3}|Solitaire WPF\\Solitaire WPF.csproj|g:\\my cs\\semester 3\\dsa lab\\mid project - solitaire game\\solitaire wpf\\solitaire wpf\\card.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D931261-AD47-4075-AB46-14353AC35CF3}|Solitaire WPF\\Solitaire WPF.csproj|solutionrelative:solitaire wpf\\card.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D931261-AD47-4075-AB46-14353AC35CF3}|Solitaire WPF\\Solitaire WPF.csproj|G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\solitaire wpf\\card.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D931261-AD47-4075-AB46-14353AC35CF3}|Solitaire WPF\\Solitaire WPF.csproj|solutionrelative:solitaire wpf\\card.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D931261-AD47-4075-AB46-14353AC35CF3}|Solitaire WPF\\Solitaire WPF.csproj|G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\solitaire wpf\\stockpile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D931261-AD47-4075-AB46-14353AC35CF3}|Solitaire WPF\\Solitaire WPF.csproj|solutionrelative:solitaire wpf\\stockpile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D931261-AD47-4075-AB46-14353AC35CF3}|Solitaire WPF\\Solitaire WPF.csproj|G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\solitaire wpf\\tableau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D931261-AD47-4075-AB46-14353AC35CF3}|Solitaire WPF\\Solitaire WPF.csproj|solutionrelative:solitaire wpf\\tableau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D931261-AD47-4075-AB46-14353AC35CF3}|Solitaire WPF\\Solitaire WPF.csproj|G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\solitaire wpf\\winpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D931261-AD47-4075-AB46-14353AC35CF3}|Solitaire WPF\\Solitaire WPF.csproj|solutionrelative:solitaire wpf\\winpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D931261-AD47-4075-AB46-14353AC35CF3}|Solitaire WPF\\Solitaire WPF.csproj|G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\solitaire wpf\\winpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D931261-AD47-4075-AB46-14353AC35CF3}|Solitaire WPF\\Solitaire WPF.csproj|solutionrelative:solitaire wpf\\winpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D931261-AD47-4075-AB46-14353AC35CF3}|Solitaire WPF\\Solitaire WPF.csproj|G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\solitaire wpf\\wastepile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D931261-AD47-4075-AB46-14353AC35CF3}|Solitaire WPF\\Solitaire WPF.csproj|solutionrelative:solitaire wpf\\wastepile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D931261-AD47-4075-AB46-14353AC35CF3}|Solitaire WPF\\Solitaire WPF.csproj|G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\solitaire wpf\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D931261-AD47-4075-AB46-14353AC35CF3}|Solitaire WPF\\Solitaire WPF.csproj|solutionrelative:solitaire wpf\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D931261-AD47-4075-AB46-14353AC35CF3}|Solitaire WPF\\Solitaire WPF.csproj|G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\solitaire wpf\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D931261-AD47-4075-AB46-14353AC35CF3}|Solitaire WPF\\Solitaire WPF.csproj|solutionrelative:solitaire wpf\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D931261-AD47-4075-AB46-14353AC35CF3}|Solitaire WPF\\Solitaire WPF.csproj|G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\solitaire wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6D931261-AD47-4075-AB46-14353AC35CF3}|Solitaire WPF\\Solitaire WPF.csproj|solutionrelative:solitaire wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D931261-AD47-4075-AB46-14353AC35CF3}|Solitaire WPF\\Solitaire WPF.csproj|G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\solitaire wpf\\foundation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D931261-AD47-4075-AB46-14353AC35CF3}|Solitaire WPF\\Solitaire WPF.csproj|solutionrelative:solitaire wpf\\foundation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D931261-AD47-4075-AB46-14353AC35CF3}|Solitaire WPF\\Solitaire WPF.csproj|G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\solitaire wpf\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D931261-AD47-4075-AB46-14353AC35CF3}|Solitaire WPF\\Solitaire WPF.csproj|solutionrelative:solitaire wpf\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D931261-AD47-4075-AB46-14353AC35CF3}|Solitaire WPF\\Solitaire WPF.csproj|G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\solitaire wpf\\cstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D931261-AD47-4075-AB46-14353AC35CF3}|Solitaire WPF\\Solitaire WPF.csproj|solutionrelative:solitaire wpf\\cstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D931261-AD47-4075-AB46-14353AC35CF3}|Solitaire WPF\\Solitaire WPF.csproj|G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\solitaire wpf\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6D931261-AD47-4075-AB46-14353AC35CF3}|Solitaire WPF\\Solitaire WPF.csproj|solutionrelative:solitaire wpf\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D931261-AD47-4075-AB46-14353AC35CF3}|Solitaire WPF\\Solitaire WPF.csproj|G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\solitaire wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D931261-AD47-4075-AB46-14353AC35CF3}|Solitaire WPF\\Solitaire WPF.csproj|solutionrelative:solitaire wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WinPage.xaml",
+              "DocumentMoniker": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\Solitaire WPF\\WinPage.xaml",
+              "RelativeDocumentMoniker": "Solitaire WPF\\WinPage.xaml",
+              "ToolTip": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\Solitaire WPF\\WinPage.xaml",
+              "RelativeToolTip": "Solitaire WPF\\WinPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-10T15:20:26.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WinPage.xaml.cs",
+              "DocumentMoniker": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\Solitaire WPF\\WinPage.xaml.cs",
+              "RelativeDocumentMoniker": "Solitaire WPF\\WinPage.xaml.cs",
+              "ToolTip": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\Solitaire WPF\\WinPage.xaml.cs",
+              "RelativeToolTip": "Solitaire WPF\\WinPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T16:16:34.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoveCard.cs",
+              "DocumentMoniker": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\Solitaire WPF\\MoveCard.cs",
+              "RelativeDocumentMoniker": "Solitaire WPF\\MoveCard.cs",
+              "ToolTip": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\Solitaire WPF\\MoveCard.cs",
+              "RelativeToolTip": "Solitaire WPF\\MoveCard.cs",
+              "ViewState": "AQIAAO4AAAAAAAAAAAAUwBcBAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T12:59:48.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Card.xaml.cs",
+              "DocumentMoniker": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\Solitaire WPF\\Card.xaml.cs",
+              "RelativeDocumentMoniker": "Solitaire WPF\\Card.xaml.cs",
+              "ToolTip": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\Solitaire WPF\\Card.xaml.cs",
+              "RelativeToolTip": "Solitaire WPF\\Card.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:43:43.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Card.xaml",
+              "DocumentMoniker": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\Solitaire WPF\\Card.xaml",
+              "RelativeDocumentMoniker": "Solitaire WPF\\Card.xaml",
+              "ToolTip": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\Solitaire WPF\\Card.xaml",
+              "RelativeToolTip": "Solitaire WPF\\Card.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-07T19:36:39.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StockPile.cs",
+              "DocumentMoniker": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\Solitaire WPF\\StockPile.cs",
+              "RelativeDocumentMoniker": "Solitaire WPF\\StockPile.cs",
+              "ToolTip": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\Solitaire WPF\\StockPile.cs",
+              "RelativeToolTip": "Solitaire WPF\\StockPile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:19:26.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\Solitaire WPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Solitaire WPF\\MainWindow.xaml.cs",
+              "ToolTip": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\Solitaire WPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Solitaire WPF\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:30:02.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WastePile.cs",
+              "DocumentMoniker": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\Solitaire WPF\\WastePile.cs",
+              "RelativeDocumentMoniker": "Solitaire WPF\\WastePile.cs",
+              "ToolTip": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\Solitaire WPF\\WastePile.cs",
+              "RelativeToolTip": "Solitaire WPF\\WastePile.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAmwEoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:19:42.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tableau.cs",
+              "DocumentMoniker": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\Solitaire WPF\\Tableau.cs",
+              "RelativeDocumentMoniker": "Solitaire WPF\\Tableau.cs",
+              "ToolTip": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\Solitaire WPF\\Tableau.cs",
+              "RelativeToolTip": "Solitaire WPF\\Tableau.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwFYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:47:32.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\Solitaire WPF\\Utility.cs",
+              "RelativeDocumentMoniker": "Solitaire WPF\\Utility.cs",
+              "ToolTip": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\Solitaire WPF\\Utility.cs",
+              "RelativeToolTip": "Solitaire WPF\\Utility.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAuwA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:59:07.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\Solitaire WPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Solitaire WPF\\MainWindow.xaml",
+              "ToolTip": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\Solitaire WPF\\MainWindow.xaml",
+              "RelativeToolTip": "Solitaire WPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-09T18:17:59.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Foundation.cs",
+              "DocumentMoniker": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\Solitaire WPF\\Foundation.cs",
+              "RelativeDocumentMoniker": "Solitaire WPF\\Foundation.cs",
+              "ToolTip": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\Solitaire WPF\\Foundation.cs",
+              "RelativeToolTip": "Solitaire WPF\\Foundation.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T09:59:53.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CStack.cs",
+              "DocumentMoniker": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\Solitaire WPF\\CStack.cs",
+              "RelativeDocumentMoniker": "Solitaire WPF\\CStack.cs",
+              "ToolTip": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\Solitaire WPF\\CStack.cs",
+              "RelativeToolTip": "Solitaire WPF\\CStack.cs",
+              "ViewState": "AQIAAEgAAABAZmZmZmYzwFIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:35:26.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\Solitaire WPF\\Deck.cs",
+              "RelativeDocumentMoniker": "Solitaire WPF\\Deck.cs",
+              "ToolTip": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\Solitaire WPF\\Deck.cs",
+              "RelativeToolTip": "Solitaire WPF\\Deck.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAkwD0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:35:15.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Node.cs",
+              "DocumentMoniker": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\Solitaire WPF\\Node.cs",
+              "RelativeDocumentMoniker": "Solitaire WPF\\Node.cs",
+              "ToolTip": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\Solitaire WPF\\Node.cs",
+              "RelativeToolTip": "Solitaire WPF\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:28:29.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\Solitaire WPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Solitaire WPF\\MainWindow.xaml",
+              "ToolTip": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\Solitaire WPF\\MainWindow.xaml",
+              "RelativeToolTip": "Solitaire WPF\\MainWindow.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T15:33:56.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\Solitaire WPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Solitaire WPF\\App.xaml.cs",
+              "ToolTip": "G:\\My CS\\Semester 3\\DSA Lab\\Mid Project - Solitaire Game\\Solitaire WPF\\Solitaire WPF\\App.xaml.cs",
+              "RelativeToolTip": "Solitaire WPF\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:37:42.078Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
