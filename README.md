@@ -1,4 +1,4 @@
-# Solitaire Game (DSA Mid Project , 2023-CS-169)
+# Solitaire Game (DSA Mid Project)
 
 ## Overview
 Solitaire is a classic card game, developed in C# using WPF Forms. The game offers a rich user experience where the player can move cards between tableau piles, foundation piles, and the stock/waste piles. The project incorporates essential concepts from **Data Structures and Algorithms (DSA)** such as **Stacks**, **Queues**, and **Linked Lists** to manage and manipulate cards efficiently.
